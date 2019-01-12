@@ -1,0 +1,16 @@
+Alessandro:
+- Encountered problems at 32-vert, went back to 16-back, got good results, found out few problems with previous implementation
+- Obtained promising results for 32-vert
+- Tried Dice Loss -> Good, using this going forward
+- Tweaking visualization functions to show results
+
+
+Abdelrahman:
+- After suspecting the distribution of 3D-Minist and not being able to produce results using WGAN-GP, i moved to the vertebra dataset. 
+- Exploring and preprocessing the Vertebra dataset (using parts of a code written by Alessandro)
+- Modifying the existing archeticture and finally got generation results for Vertebrae on 16 cube level. 
+Wasiq:
+-
+
+Sweety:
+-

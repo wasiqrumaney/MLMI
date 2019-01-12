@@ -1,0 +1,25 @@
+Alessandro:
+
+Switch to work on vertebrae 32
+- Proposed visualization and data processing utilities
+- Proposed VAE for 32-voxel implementation
+- Uploaded Vertabrae-32 preliminary experiment
+
+Abdelrahman:
+- Trying the 64 cube implementation for the 3Dminst (a big failure due to lack of GPU resources) 
+- My machine is broken, so moved completely to Co-lab, prepared the environment, and setup a template to plug in the model and data and smoothly running the code from anywhere
+- Using different utilities to pickle, load the model from different checkpoints, also logging the model losses. 
+- Implementing the WSGAN-GP objective for the 16 cube 3dMnist model, hoping for a more stable GAN
+- Busting my brain off trying to stabilize the WSGAN model, debgging the code, searching for different tricks, trials to change the architecture but no good output eventually (SAD week) 
+
+
+Wasiq:
+- Reading literature on Progressively Growing GANs
+# https://arxiv.org/abs/1707.05776 (discuss with mentor in the next meeting)
+
+Sweety:
+
+-DL library confusions setteled
+-looking for 
+1. colormap based on probs output for visualization
+2. matplotlib3d voxels visualization

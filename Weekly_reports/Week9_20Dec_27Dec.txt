@@ -1,0 +1,12 @@
+Alessandro:
+- 
+
+Abdelrahman:
+- Setting up the GPU server, installing docker and running containers
+- Generating Vertebra 32 cube
+
+Wasiq:
+-
+
+Sweety:
+-

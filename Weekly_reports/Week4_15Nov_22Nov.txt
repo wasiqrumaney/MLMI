@@ -1,0 +1,20 @@
+Alessandro:
+
+-Upload 3D-MNIST 16 results
+-Upload 3D-MNIST 64 proposed network (unable to train it)
+
+Abdelrahman:
+- More trials on to stabilizing the training for vanilla GAN (one  and two sided label smoothing, label flipping, noisy labels, more training for discriminator, etc)
+- Vanilla GAN for 16 cube 3DMnist seemed to be working and producing some good results
+- More literature on to WSGAN and WSGAN-GP objective function to improve the Vanilla Model for 3dMnist 
+- Introducing the visdom interactive plotting approach for better visualizing the 3dData and dumping the old plotting method.
+
+Wasiq:
+- Upload WGAN-GP
+- Reading literature on Latent Space Vectorisation for GANs
+- Following SimpleITK
+
+Sweety:
+-Scripts of LSV for 2D MNIST
+(confusion reagrding DL libraries)
+-Resrearch on DL

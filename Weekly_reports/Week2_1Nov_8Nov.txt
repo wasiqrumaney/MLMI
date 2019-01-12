@@ -1,0 +1,20 @@
+Alessandro: 
+
+- Reading further VAE literature
+- Start working on 3D-MNIST, understanding data representation
+- Script for 3D-Mnist as voxel grid
+
+Abdelrahman:
+- More detailed readings about GANs' different objective functions 
+- Exploring different GAN structures for handling 3d Data
+- Understanding, visualizing, and preprocessing the 3dMnist dataset
+- More on to DCGAN, base code testing different architectures 
+
+Wasiq:
+- Reading literature on various GANs
+- Reading specific literature on WGAN
+- Training WGAN for MNIST
+
+Sweety:
+-Following SimpleITK
+-Reading about Latent Space Navigation for VAEs

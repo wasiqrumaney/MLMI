@@ -1,0 +1,18 @@
+Alessandro:
+
+On 3D-MNIST
+- Setting up VAE implementation for 16-voxels and 64-voxels
+- Run experiments on 16-voxels
+
+Abdelrahman:
+- First attempts to reimplement the paper "Learning a Probabilistic Latent Space of Object Shapes 
+via 3D Generative-Adversarial Modeling" in pytorch framework
+- Extending the Vanilla GAN to the 16 cube model for the 3DMnist dataset and starting the journy of unstable training 
+
+Wasiq:
+- Upload WGAN
+- Reading specific literature on Improved WGAN (WGAN-GP)
+- Training WGAN-GP for MNIST
+
+Sweety:
+Scripts for LSV on 2D MNIST

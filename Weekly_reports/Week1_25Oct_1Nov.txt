@@ -1,0 +1,25 @@
+Alessandro: 
+
+- Reading basics of GANs and VAEs
+- Reading basics of SimpleITK
+- Proposed implemention of pre-processing (resampling, extracting vertabrae, resizing)
+- Uploaded a basic VAE implementation for MNIST
+
+
+Abdelrahman:
+
+- Ramping up in GANs and VAEs.
+- Ramping up in SimpleITK and ITK. 
+- Writing Basic code to read a scan, Iso-Resample, crop,resize it. (The code was dumped in favor of Alessandro's code). 
+- Building a pytorch framework to preprocess the whole dataset. 
+
+
+Wasiq: 
+- Reading literature on GANs and VAEs in Project description paper
+- Reading basics of SimpleITK
+- Training and uploading a simple GAN model for MNIST
+
+Sweety:
+- Reading basics of GANs and VAEs
+- Getting started with SimpleITK - following SimpleITK Tutorials
+- Following the VXlabs article and Understanding Alessandro's implementation

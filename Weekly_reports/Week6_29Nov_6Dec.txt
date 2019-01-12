@@ -1,0 +1,17 @@
+Alessandro:
+
+Working on 32 vertebrae
+- Implemented various utility functions
+- Tried to implement InfoVAE. No success, results looked random
+- Tried to implementa betaVAE. Able to generate vague shapes, but they look very similar 
+- Trying alternative architectures for model
+
+Abdelrahman:
+- Stuck with the unstable version of the WSGAN-GP, checking GP calculations, trying instance noise, changing batchnorm to layernorm for critic.
+- Familiarizing myself about Progressively Growing GAN (preparation for the next move) 
+
+Wasiq:
+- Training Progressively Growing GAN
+
+Sweety:
+-
