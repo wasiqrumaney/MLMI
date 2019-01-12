@@ -1,0 +1,7 @@
+mask001.mhd
+mask001.raw
+.idea
+for_VAE/
+__pycache__/
+data/
+3d-mnist/
